@@ -22,6 +22,8 @@ A Data Item (we can store integers, strings, or any type of data).
 Pointer (Or Reference) to the next node (connects one node to another) or An address of another node
 
 # Output
+![image](https://user-images.githubusercontent.com/76811184/234382065-1268ab85-da87-499c-a5f2-f9bfd3c33e17.png)
+
 
 # Applications of Linked Lists
 ● Linked Lists can be used to implement useful data structures like stacks and queues. 
